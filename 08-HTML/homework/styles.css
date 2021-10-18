@@ -1,0 +1,21 @@
+
+      h1{
+          color: springgreen;
+      }
+      img{
+          width: 400px;
+      }
+      thirdDiv{
+          height: 600px;
+          width: 500px;
+          background-color: coral;
+          padding: 50px;
+          border-width: 12px;
+          border-color: darkseagreen;
+      }
+      spanID{
+          font-size: 18px;
+          margin: 50px;
+      }
+
+
